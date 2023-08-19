@@ -1,7 +1,5 @@
 # 3D-Interactive-Cube-Environment-with-OpenGL
 
-![Project Preview](project_preview.png)
-
 ## Description
 
 The "3D Interactive Cube Environment with OpenGL" project is an interactive 3D graphics demonstration created using the OpenGL graphics library and Pygame framework. The project provides a basic environment where users can navigate a 3D space, interact with cubes, and explore fundamental concepts in real-time 3D rendering.
