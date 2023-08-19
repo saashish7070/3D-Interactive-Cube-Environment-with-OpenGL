@@ -6,6 +6,15 @@
 
 The "3D Interactive Cube Environment with OpenGL" project is an interactive 3D graphics demonstration created using the OpenGL graphics library and Pygame framework. The project provides a basic environment where users can navigate a 3D space, interact with cubes, and explore fundamental concepts in real-time 3D rendering.
 
+
+## Getting Started
+
+1. Clone the repository: `git clone https://github.com/saashish7070/3d-cube-environment.git`
+2. Navigate to the project directory: `cd 3d-cube-environment`
+3. Set up a virtual environment: `python3 -m venv cube` & `source cube\bin\activate` 
+4. Install the required dependencies: `pip install pyopengl pygame`
+5. Run the project: `python3 infinite_cube.py`
+
 ## Features
 
 - Dynamic rendering of cubes in a 3D environment.
@@ -27,14 +36,6 @@ The project's potential for enhancement is vast. Some ideas for future improveme
 - Adding user interface elements for more intuitive controls and information.
 - Expanding the object variety and incorporating texture mapping for realism.
 - Allowing users to save and load custom scenes for more personalized experiences.
-
-## Getting Started
-
-1. Clone the repository: `git clone https://github.com/yourusername/3d-cube-environment.git`
-2. Navigate to the project directory: `cd 3d-cube-environment`
-3. Set up a virtual environment (recommended).
-4. Install the required dependencies: `pip install -r requirements.txt`
-5. Run the project: `python3 infinite_cube.py`
 
 ## Contributing
 
