@@ -25,6 +25,9 @@ The "3D Interactive Cube Environment with OpenGL" project is an interactive 3D g
 - Initial game speed and directional speed settings.
 - Limited optimization for an interactive experience.
 
+## Result
+![Project Preview](result.png)
+
 ## Future Enhancements
 
 The project's potential for enhancement is vast. Some ideas for future improvements include:
